@@ -3,7 +3,7 @@ Code from ECGR 2254: Analytical Foundations of ECE
 
 ## Project 1:
 1. Problem 1 - AC Circuit Simulation
-![Problem 1 AC Circuit Diagram](C:\Users\lolob\OneDrive\Pictures\Screenshots\Problem_1_Circuit?raw=true "Title")
+![Problem 1 AC Circuit Diagram](C:\Users\lolob\OneDrive\Pictures\Screenshots\Problem_1_Circuit.PNG?raw=true "Title")
 2. Problem 2 - Audio Filtering with a High Pass Digital Filter
 3. Problem 3 - Traditional Communications Using a Demodulator and Low Pass Filter
 4. Problem 4 - Communications Using Complex Signals
