@@ -32,6 +32,17 @@ Below is the plot of the input audio file before passing through the high pass f
 </p>
 
 3. Problem 3 - Traditional Communications Using a Demodulator and Low Pass Filter
+
+Demodulator Circuit Diagram (Provided in the initial problem):
+<p align="center">
+  <img src="Problem_3_Circuit1.PNG">
+</p>
+
+Low Pass Digital Filter Circuit Diagram (Provided in the initial problem):
+<p align="center">
+  <img src="Problem_3_Circuit2.PNG">
+</p>
+
 4. Problem 4 - Communications Using Complex Signals
 5. Problem 5 - DC Motor Controlling a Robot Arm
 
