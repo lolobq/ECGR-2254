@@ -6,7 +6,7 @@ Code from ECGR 2254: Analytical Foundations of ECE
 
 AC Circuit Diagram (Provided in the initial problem):
 <p align="center">
-  <img src="Problem_1_Circuit.PNG">
+  <img src="Images/Problem_1_Circuit.PNG">
 </p>
 
 Below is the plot of the inductor current I found after calculating a current phasor equation and discrete time equation for the phasor equation:
