@@ -9,7 +9,7 @@ Circuit 1 Diagram (Provided in the initial problem):
   <img src="Problem_1_Circuit.PNG">
 </p>
 
-Below is the plot of the inductor current I found after calculating a phasor equation and discrete time equation for the phasor equation:
+Below is the plot of the inductor current I found after calculating a current phasor equation and discrete time equation for the phasor equation:
 <p align="center">
   <img src="Problem_1_Graph1.PNG">
 </p>
