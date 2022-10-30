@@ -26,6 +26,11 @@ High Pass Filter Circuit Diagram (Provided in the initial problem):
   <img src="Problem_2_Circuit.PNG">
 </p>
 
+Below is the plot of the input audio file before passing through the high pass filter and the output after passing through the filter:
+<p align="center">
+  <img src="Problem_2_Graph1.PNG">
+</p>
+
 3. Problem 3 - Traditional Communications Using a Demodulator and Low Pass Filter
 4. Problem 4 - Communications Using Complex Signals
 5. Problem 5 - DC Motor Controlling a Robot Arm
