@@ -7,6 +7,9 @@ Code from ECGR 2254: Analytical Foundations of ECE
 Circuit 1 Diagram (Provided in the initial problem):
 ![Problem 1 AC Circuit Diagram](Problem_1_Circuit.PNG)
 
+Below is the plot of the inductor current I found after calculating a phasor equation and discrete time equation for the phasor equation:
+![Problem 1 Inductor Current Plot](Problem_1_Graph1.PNG)
+
 2. Problem 2 - Audio Filtering with a High Pass Digital Filter
 3. Problem 3 - Traditional Communications Using a Demodulator and Low Pass Filter
 4. Problem 4 - Communications Using Complex Signals
