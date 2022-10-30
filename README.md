@@ -43,6 +43,11 @@ Low Pass Digital Filter Circuit Diagram (Provided in the initial problem):
   <img src="Problem_3_Circuit2.PNG">
 </p>
 
+Below is the plot of the audio file before passing through the demodulator and the output after passing through the filter over 2 different time periods. The last plot shows the input before passing through the low pass filter and the output after passing through:
+<p align="center">
+  <img src="Problem_3_Graph1.PNG">
+</p>
+
 4. Problem 4 - Communications Using Complex Signals
 5. Problem 5 - DC Motor Controlling a Robot Arm
 
