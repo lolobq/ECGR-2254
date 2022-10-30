@@ -49,6 +49,12 @@ Below is the plot of the audio file before passing through the demodulator and t
 </p>
 
 4. Problem 4 - Communications Using Complex Signals
+
+Demodulator for a Complex Signal Circuit Diagram (Provided in the initial problem):
+<p align="center">
+  <img src="Problem_4_Circuit.PNG">
+</p>
+
 5. Problem 5 - DC Motor Controlling a Robot Arm
 
 *Note: I was unable to upload the .bin files for problems 3 and 4 because they were too large
