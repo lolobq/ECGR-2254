@@ -57,4 +57,14 @@ Demodulator for a Complex Signal Circuit Diagram (Provided in the initial proble
 
 5. Problem 5 - DC Motor Controlling a Robot Arm
 
+DC Motor Circuit Diagram (Provided in the initial problem):
+<p align="center">
+  <img src="Problem_5_Circuit.PNG">
+</p>
+
+Below is the plot of the current, motor speed, and motor angle before creating a position controller:
+<p align="center">
+  <img src="Problem_5_Graph1.PNG">
+</p>
+
 *Note: I was unable to upload the .bin files for problems 3 and 4 because they were too large
