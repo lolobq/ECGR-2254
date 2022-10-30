@@ -69,7 +69,7 @@ Below is the plot of the current, motor speed, and motor angle before creating a
 
 Below is the plot of the motor angle after creating a position controller:
 <p align="center">
-  <img src="Problem_5_Graph1.PNG">
+  <img src="Problem_5_Graph2.PNG">
 </p>
 
 *Note: I was unable to upload the .bin files for problems 3 and 4 because they were too large
