@@ -1,4 +1,4 @@
-# ECGR-2254
+# ECGR-2254-Analytical_Foundations_of_ECE
 Code from ECGR 2254: Analytical Foundations of ECE
 
 ## Project 1:
